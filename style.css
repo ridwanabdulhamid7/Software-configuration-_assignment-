@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+nav {
+    display: flex;                 
+    justify-content: space-between;
+    align-items: center;           
+    padding: 20px 10%;
+    background-color: #222;
+    color: white;
+}
+
+.hero {
+    height: 90vh;
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
